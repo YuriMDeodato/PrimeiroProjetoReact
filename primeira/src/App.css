@@ -1,0 +1,13 @@
+.App{
+  background-color: rgb(141, 141, 157);
+
+}
+
+p {
+  color: aliceblue;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
